@@ -1,7 +1,7 @@
 # 🏥 Qlinic - Sistem Antrian Klinik
 
 <div align="center">
-  <img alt="Qlinic Banner" src="https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?q=80&w=2053&auto=format&fit=crop" width="100%" style="border-radius:15px">
+  <img alt="Qlinic Banner" src="./screenshot/5.png" width="100%" style="border-radius:15px">
 </div>
 
 <br>
@@ -20,6 +20,22 @@ Dengan Qlinic, manajemen klinik menjadi lebih terstruktur, waktu tunggu pasien b
 - **Rekam Medis (EMR) Terintegrasi:** Memudahkan dokter dalam melacak riwayat pasien.
 - **Notifikasi Pintar:** Update status antrian pasien (segera hadir di versi selanjutnya).
 - **Dashboard Analitik:** Ringkasan statistik jumlah kunjungan pasien per hari/bulan untuk manajemen klinik.
+
+---
+
+## 📸 Tangkapan Layar (Screenshots)
+
+Berikut adalah beberapa tampilan antarmuka dari pengguna aplikasi Qlinic:
+
+<div align="center">
+    <img src="./screenshot/1.png" width="70%" style="border-radius:15px; margin-bottom: 20px;" alt="Login Qlinic">
+    <br>
+    <img src="./screenshot/2.png" width="70%" style="border-radius:15px; margin-bottom: 20px;" alt="Patient Interface">
+    <br>
+    <img src="./screenshot/3.png" width="70%" style="border-radius:15px; margin-bottom: 20px;" alt="Admin Interface">
+    <br>
+    <img src="./screenshot/4.png" width="70%" style="border-radius:15px; margin-bottom: 20px;" alt="TV Display">
+</div>
 
 ---
 
