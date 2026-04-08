@@ -3,18 +3,6 @@
 <div align="center">
   <img alt="Qlinic Banner" src="./screenshot/1.png" width="100%" style="border-radius:15px">
 </div>
-<div align="center">
-  <img alt="Qlinic Banner" src="./screenshot/2.png" width="100%" style="border-radius:15px">
-</div>
-<div align="center">
-  <img alt="Qlinic Banner" src="./screenshot/3.png" width="100%" style="border-radius:15px">
-</div>
-<div align="center">
-  <img alt="Qlinic Banner" src="./screenshot/4.png" width="100%" style="border-radius:15px">
-</div>
-<div align="center">
-  <img alt="Qlinic Banner" src="./screenshot/5.png" width="100%" style="border-radius:15px">
-</div>
 
 <br>
 
@@ -40,13 +28,13 @@ Dengan Qlinic, manajemen klinik menjadi lebih terstruktur, waktu tunggu pasien b
 Berikut adalah beberapa tampilan antarmuka dari pengguna aplikasi Qlinic:
 
 <div align="center">
-    <img src="./screenshot/1.png" width="70%" style="border-radius:15px; margin-bottom: 20px;" alt="Login Qlinic">
+    <img src="./screenshot/2.png" width="70%" style="border-radius:15px; margin-bottom: 20px;" alt="Login Qlinic">
     <br>
-    <img src="./screenshot/2.png" width="70%" style="border-radius:15px; margin-bottom: 20px;" alt="Patient Interface">
+    <img src="./screenshot/3.png" width="70%" style="border-radius:15px; margin-bottom: 20px;" alt="Patient Interface">
     <br>
-    <img src="./screenshot/3.png" width="70%" style="border-radius:15px; margin-bottom: 20px;" alt="Admin Interface">
+    <img src="./screenshot/4.png" width="70%" style="border-radius:15px; margin-bottom: 20px;" alt="Admin Interface">
     <br>
-    <img src="./screenshot/4.png" width="70%" style="border-radius:15px; margin-bottom: 20px;" alt="TV Display">
+    <img src="./screenshot/5.png" width="70%" style="border-radius:15px; margin-bottom: 20px;" alt="TV Display">
 </div>
 
 ---
