@@ -1,7 +1,7 @@
 # 🏥 Qlinic - Sistem Antrian Klinik
 
 <div align="center">
-  <img alt="Qlinic Banner" src="./screenshot/5.png" width="100%" style="border-radius:15px">
+  <img alt="Qlinic Banner" src="./screenshot/1.png" width="100%" style="border-radius:15px">
 </div>
 
 <br>
