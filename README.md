@@ -132,10 +132,6 @@ Kami sangat menghargai kontribusi dari siapapun! Jika Anda menemukan bug atau me
 
 ---
 
-## 📄 Lisensi
-
-Qlinic adalah perangkat lunak _open-source_ di bawah naungan lisensi [MIT license](https://opensource.org/licenses/MIT).
-
 </br>
 
 <div align="center">
