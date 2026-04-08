@@ -6,6 +6,15 @@
 <div align="center">
   <img alt="Qlinic Banner" src="./screenshot/2.png" width="50%" style="border-radius:15px">
 </div>
+<div align="center">
+  <img alt="Qlinic Banner" src="./screenshot/3.png" width="50%" style="border-radius:15px">
+</div>
+<div align="center">
+  <img alt="Qlinic Banner" src="./screenshot/4.png" width="50%" style="border-radius:15px">
+</div>
+<div align="center">
+  <img alt="Qlinic Banner" src="./screenshot/5.png" width="50%" style="border-radius:15px">
+</div>
 
 <br>
 
