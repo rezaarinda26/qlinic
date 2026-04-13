@@ -50,6 +50,17 @@ Berikut adalah beberapa tampilan antarmuka dari pengguna aplikasi Qlinic:
 
 ---
 
+## 🔑 Akun Demo (Demo Accounts)
+
+Untuk mencoba aplikasi tanpa mendaftar, Anda dapat menggunakan akun demo berikut:
+
+| Role        | Email                  | Password |
+| ----------- | ---------------------- | -------- |
+| **Admin**   | `admin@qlinic.com`     | `password` |
+| **Pasien**  | `patient01@qlinic.com` | `password` |
+
+---
+
 ## 🚀 Cara Menjalankan Project (Local Development)
 
 Ikuti langkah-langkah di bawah ini untuk menjalankan aplikasi Qlinic di mesin lokal Anda.

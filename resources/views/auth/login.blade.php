@@ -26,6 +26,21 @@
             <button type="submit" class="btn btn-primary btn-block" style="padding: 14px; font-size: 16px;">Masuk Aplikasi</button>
         </form>
 
+        <div style="margin-top: 24px; background: #F8FAFC; padding: 20px; border-radius: 12px; border: 1px solid var(--border-color);">
+            <p style="font-size: 13px; font-weight: 700; color: var(--primary); margin-bottom: 12px; text-transform: uppercase; letter-spacing: 0.5px;">Akses Akun Demo</p>
+            
+            <div style="display: flex; flex-direction: column; gap: 12px;">
+                <div>
+                    <p style="font-size: 12px; color: var(--text-muted); margin-bottom: 2px;">Sebagai Admin:</p>
+                    <p style="font-size: 14px; font-weight: 600; color: var(--text-main);">admin@qlinic.com / <span style="font-weight: 400;">password</span></p>
+                </div>
+                <div>
+                    <p style="font-size: 12px; color: var(--text-muted); margin-bottom: 2px;">Sebagai Pasien:</p>
+                    <p style="font-size: 14px; font-weight: 600; color: var(--text-main);">patient01@qlinic.com / <span style="font-weight: 400;">password</span></p>
+                </div>
+            </div>
+        </div>
+
         <div style="margin-top: 32px; text-align: center; border-top: 1px solid var(--border-color); padding-top: 24px;">
             <p style="color: var(--text-muted); font-size: 15px;">
                 Pasien Kunjungan Baru? <br>
